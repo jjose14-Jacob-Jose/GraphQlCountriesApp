@@ -16,3 +16,6 @@ local.properties
 
 # Android Studio Configuration files
 /.idea
+
+# Local Files
+clipboard.txt
